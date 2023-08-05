@@ -1,1 +1,1 @@
-# R
+Rock Papper Scissors Game
